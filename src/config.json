@@ -1,0 +1,17 @@
+{
+  "features": {
+    "showAds": false,
+    "adPlacement": {
+      "verticalLeftSidebar": true
+    }
+  },
+  "adSettings": {
+    "sidebarMinHeight": "600px",
+    "sidebarWidth": "160px"
+  },
+  "app": {
+    "name": "US Mortgage Calculator",
+    "version": "1.0.0",
+    "description": "A responsive mortgage calculator with Bootstrap"
+  }
+}
